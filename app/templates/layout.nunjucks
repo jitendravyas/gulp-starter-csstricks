@@ -10,11 +10,7 @@
 <body>
 
   <!-- You write code for this content block in another file -->
-  
-<div class="gallery">
-  
-</div>
-
+  {% block content %} {% endblock %}
 
   <script src="bower_components/jquery/dist/jquery.js"></script>
   <script src="js/main.js"></script>

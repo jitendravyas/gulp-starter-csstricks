@@ -1,0 +1,19 @@
+{
+  "name": "gulp-starter-csstricks",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zellwk/gulp-starter-csstricks",
+  "authors": [
+    "Jitendra Vyas <jitendra.web@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.0"
+  }
+}
